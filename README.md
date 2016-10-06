@@ -1,3 +1,2 @@
 # hello-world
-Following tutorial exactly...
-Modifying Readme.
+Hello, World!
